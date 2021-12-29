@@ -1,0 +1,46 @@
+.phone-1 {width: 8.33%;}
+.phone-2 {width: 16.66%;}
+.phone-3 {width: 25%;}
+.phone-4 {width: 33.33%;}
+.phone-5 {width: 41.33%;}
+.phone-6 {width: 50%;}
+.phone-7 {width: 58.33%;}
+.phone-8 {width: 66.66%;}
+.phone-9 {width: 75%;}
+.phone-10 {width: 83.33%;}
+.phone-11 {width: 91.66%;}
+.phone-12 {width: 100%;}
+
+.info-bull{
+	margin-left: 12.5%;
+}
+
+.links{
+	margin-left: 4.33%;
+}
+
+#subscribe{
+	font-size: 18px;
+	}
+
+#important{
+	margin-left: 4.33%;
+	font-size: 18px;
+}
+
+.paragraphs{
+	font-size: 10px;
+	text-align: center;
+	letter-spacing: 1px;
+	word-spacing: 0px;
+	font-family: Alatsi;
+	line-height: 13px;
+	}
+
+#label, #p-gmail{
+	display: block;
+	width: 100%;
+	text-align: center;
+	margin: auto;
+	margin-bottom: 10px;
+	}
